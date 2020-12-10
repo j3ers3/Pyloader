@@ -7,8 +7,8 @@
 ```
 python3 pyloader_serialize.py -f payload.c
 ```
+![-w1026](media/16076077316690.jpg)
 
-![-w735](media/16076066371374.jpg)
 
 
 ## 打包exe
